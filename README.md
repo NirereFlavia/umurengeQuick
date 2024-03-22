@@ -3,8 +3,6 @@
 
 <h1>Today we are creating a react js app called "UmurengeQuick"</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## 🎯Aime of the project
 We are creating a website which help Rwandan🇷🇼 peaple to book appoitment with the District leaders, On these websites the user wil be able to see their leadres schedule and the district announcments and news. The user will be able to select a particular district he or she wants😊.
 ## ✨ The main components we will be working on.
